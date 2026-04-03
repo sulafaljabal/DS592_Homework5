@@ -1,0 +1,3 @@
+- Download jupyter notebook and run cells
+- notebook takes a long time to run
+- added pdf of previously ran cells for convenience
